@@ -49,6 +49,7 @@ body {
     overflow-x: hidden;
     transition: background 0.4s ease, color 0.4s ease;
     -webkit-font-smoothing: antialiased;
+    padding-top: 40px;
 }
 
 html {
@@ -65,7 +66,11 @@ html {
     border-bottom: 1px solid var(--border);
     transition: all 0.4s cubic-bezier(0.4, 0, 0.2, 1);
     backdrop-filter: blur(10px);
-    position: relative;
+    position: fixed;
+    top: 40px;
+    left: 0;
+    right: 0;
+    z-index: 999;
 }
 
 .navbar .container-fluid {
@@ -230,7 +235,7 @@ html {
     min-height: 100vh;
     display: flex;
     align-items: center;
-    padding: 120px 0 80px;
+    padding: 160px 0 80px;
     position: relative;
     background: var(--bg-primary);
     overflow: hidden;
