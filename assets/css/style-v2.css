@@ -1387,7 +1387,7 @@ html {
     
     .navbar-collapse {
         position: fixed;
-        top: 90px;
+        top: 130px;
         left: 1rem;
         right: 1rem;
         background: #ffffff !important;
@@ -1398,7 +1398,7 @@ html {
         border-radius: 12px;
         padding: 1.5rem;
         z-index: 1000;
-        max-height: calc(100vh - 110px);
+        max-height: calc(100vh - 150px);
         overflow-y: auto;
     }
     
@@ -1684,6 +1684,8 @@ html {
         padding: 1.5rem;
         top: calc(100% + 0.5rem);
         border-radius: 16px;
+        position: fixed;
+        top: 100px;
     }
     
     .navbar-brand {
@@ -1708,7 +1710,7 @@ html {
     
     
     .hero-section {
-        padding: 90px 0 50px;
+        padding: 130px 0 50px;
         min-height: auto;
     }
     
@@ -2130,7 +2132,7 @@ html {
     
     
     .hero-section {
-        padding: 80px 0 40px;
+        padding: 120px 0 40px;
     }
     
     .hero-number {
