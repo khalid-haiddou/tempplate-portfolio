@@ -1,0 +1,100 @@
+================================================================================
+                            LICENSE AGREEMENT
+                    GAWSDEV PORTFOLIO TEMPLATE
+================================================================================
+
+COPYRIGHT NOTICE
+----------------
+
+Copyright (c) 2024 GawsDev. All rights reserved.
+
+This portfolio template is created and distributed by GawsDev.
+
+
+LICENSE TERMS
+-------------
+
+You are granted a non-exclusive, non-transferable license to use this template
+for personal and commercial projects, subject to the following conditions:
+
+
+PERMITTED USES
+--------------
+
+✓ Use for personal portfolios
+✓ Use for client projects
+✓ Modify and customize the design
+✓ Use for commercial websites
+✓ Redistribute as part of your work (with attribution)
+
+
+RESTRICTIONS
+------------
+
+✗ Do not resell as a standalone template
+✗ Do not claim original authorship
+✗ Do not remove copyright notices from source code
+✗ Do not use for illegal purposes
+
+
+ATTRIBUTION
+-----------
+
+While not required, attribution is appreciated. You may include a credit
+such as:
+
+  "Template by GawsDev" or "Based on GawsDev Portfolio Template"
+
+This can be placed in the footer or in your project documentation.
+
+
+DISCLAIMER
+----------
+
+This template is provided "as is" without warranty of any kind, express or
+implied, including but not limited to the warranties of merchantability,
+fitness for a particular purpose and non-infringement.
+
+In no event shall GawsDev be liable for any claim, damages or other liability,
+whether in an action of contract, tort or otherwise, arising from, out of or
+in connection with the template or the use or other dealings in the template.
+
+
+THIRD-PARTY RESOURCES
+---------------------
+
+This template includes third-party resources:
+
+- Bootstrap 5.3.0 (MIT License)
+- AOS Library (MIT License)
+- Font Awesome (Font Awesome Free License)
+- Google Fonts (Open Font License)
+
+Please refer to their respective licenses for more information.
+
+
+MODIFICATIONS
+-------------
+
+You are free to modify this template to suit your needs. However, modified
+versions must still comply with this license agreement.
+
+
+SUPPORT
+-------
+
+For questions about licensing, please refer to HELP.txt or contact the
+template creator.
+
+
+EFFECTIVE DATE
+--------------
+
+This license is effective as of 2024 and applies to all versions of this
+template.
+
+
+================================================================================
+                         END OF LICENSE AGREEMENT
+================================================================================
+
